@@ -1,0 +1,22 @@
+body{
+	background-color: peachpuff;
+	font-family: comic sans-serif;
+    }
+h1 { 
+    font-size:35px ;
+    text-align: center;
+    color:goldenrod;
+    }
+.ncip {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    font-family: Courier;    
+    }
+.ciip{
+	width: 200px;
+	height: 230px;
+    padding: 30px;
+	background-color:blanchedalmond;
+    color:black;
+}
